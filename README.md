@@ -1,4 +1,4 @@
-# RPG Dice Pouch — Privacy Policy
+# RPG Dice Pouch — Privacy and Support
 
 A small, static privacy policy website for RPG Dice Pouch, developed by Lorenzo Saraiva. It covers local data, optional Supabase accounts and cloud sync, optional RevenueCat purchases, retention, deletion, and privacy contact details.
 
@@ -13,6 +13,10 @@ Privacy policy URL after publishing:
 
 **https://lorenzosaraiva.github.io/rpgdicepouch/**
 
+Support URL:
+
+**https://lorenzosaraiva.github.io/rpgdicepouch/support.html**
+
 The data deletion section is directly linkable:
 
 **https://lorenzosaraiva.github.io/rpgdicepouch/#delete-data**
@@ -22,6 +26,7 @@ GitHub's setup documentation: https://docs.github.com/en/pages/getting-started-w
 ## Files and updates
 
 - `index.html`: the complete policy, readable without JavaScript.
+- `support.html`: developer contact, purchase restoration, subscription management, and deletion help in English and Brazilian Portuguese.
 - `styles.css`: mobile-friendly layout and print styles.
 - `assets/d20.png`: original app artwork.
 - `assets/outfit-latin.woff2`: self-hosted Outfit variable font.
